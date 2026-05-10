@@ -1,0 +1,8 @@
+ID,title,author,stock,price
+ed246f86-d466-43e4-a4a6-bef13c3ad70b,Clean Code,Robert C. Martin,12,45.99
+4023f131-7fee-44b5-a989-c1d6fd7e483f,The Pragmatic Programmer,Andrew Hunt,8,39.99
+8e59b963-3b67-4344-89e2-9d35ce52a481,Design Patterns,Erich Gamma,5,52.50
+a1b2c3d4-e5f6-7890-abcd-ef1234567890,Refactoring,Martin Fowler,15,49.99
+b9c8d7e6-f5a4-3210-9876-543210fedcba,The Mythical Man-Month,Frederick Brooks,7,29.99
+c7d6e5f4-a3b2-1908-7654-3210cba98765,Domain-Driven Design,Eric Evans,6,59.99
+d5e4f3a2-b1c0-9876-5432-109876fedcba,Clean Architecture,Robert C. Martin,10,42.50
